@@ -1,0 +1,55 @@
+#base{
+    width: 1000px;
+    min-height: 1000px;
+    position: absolute;
+    left: 50%;
+    margin-left: -500px;
+    background-color: aqua;
+ 
+}
+
+
+
+#menu{
+    min-height: 100px;
+    width: 100%;
+    left: 1px;
+    background-color: black ;
+    
+    
+}
+
+#logo{
+    
+    left: 50%;
+   
+}
+
+
+
+#slider{
+    min-height: 400px;
+    width: 1000px;
+    background-color: blue;
+    float: left;
+}
+
+
+#ads{
+    min-height: 100px;
+    width: 1000px;
+    float: left;
+}
+
+#cuerpo{
+    min-height: 500px;
+    width: 1000px;
+    float: left;
+}
+
+
+#pie{
+    min-height: 150px;
+    width: 1000px;
+    float: left;
+}
